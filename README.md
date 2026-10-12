@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm building my skills in Cloud Computing and DevO
 
 ## 👩‍💻 About Me
 
-* 🌱 Currently learning Cloud DevOps Engineering.
+* 🌱 Currently learning Cloud & DevOps.
 * ☁️ Exploring AWS cloud services and cloud infrastructure.
 * 🐧 Learning Linux and shell commands.
 * 🐳 Practicing Docker and containerization.
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm building my skills in Cloud Computing and DevO
 * **Build Tools:** Maven
 * **Automation:** CI/CD fundamentals
 * **Scripting:** Shell scripting fundamentals
-* 
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-OS-black?style=flat&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat&logo=docker&logoColor=white)
