@@ -1,12 +1,10 @@
-
-<p align="center">
-  <img src="./devops-banner.png" alt="Cloud DevOps Engineer Banner" width="100%">
-</p>
+<div align="center">
+  <img src="https://placehold.co/1200x300/0d1117/58a6ff.png?text=SHRADDHA+MOHALKAR+%7C+CLOUD+DEVOPS" width="100%" alt="Shraddha Mohalkar Cloud DevOps Banner">
+</div>
 
 <h1 align="center">Hi 👋, I'm Shraddha Mohalkar</h1>
 
 <h3 align="center">Aspiring Cloud DevOps Engineer | AWS | Linux | Docker | Kubernetes</h3>
-
 
 # Hi, I'm Shraddha! 👋
 
