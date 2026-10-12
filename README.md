@@ -1,3 +1,13 @@
+
+<p align="center">
+  <img src="./devops-banner.png" alt="Cloud DevOps Engineer Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Shraddha Mohalkar</h1>
+
+<h3 align="center">Aspiring Cloud DevOps Engineer | AWS | Linux | Docker | Kubernetes</h3>
+
+
 # Hi, I'm Shraddha! 👋
 
 ### Aspiring Cloud DevOps Engineer 
