@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://placehold.co/1200x300/0d1117/58a6ff.png?text=SHRADDHA+MOHALKAR+%7C+CLOUD+DEVOPS" width="100%" alt="Shraddha Mohalkar Cloud DevOps Banner">
-</div>
-
-<h1 align="center">Hi 👋, I'm Shraddha Mohalkar</h1>
-
-<h3 align="center">Aspiring Cloud DevOps Engineer | AWS | Linux | Docker | Kubernetes</h3>
 
 # Hi, I'm Shraddha! 👋
 
@@ -33,12 +26,14 @@ Welcome to my GitHub profile! I'm building my skills in Cloud Computing and DevO
 * **Build Tools:** Maven
 * **Automation:** CI/CD fundamentals
 * **Scripting:** Shell scripting fundamentals
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Linux](https://img.shields.io/badge/Linux-Operating%20System-black)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+* 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-black?style=flat&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-red?style=flat&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform&logoColor=white)
 
 ## 🚀 Projects
 
