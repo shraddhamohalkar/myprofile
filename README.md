@@ -26,6 +26,12 @@ Welcome to my GitHub profile! I'm building my skills in Cloud Computing and DevO
 * **Automation:** CI/CD fundamentals
 * **Scripting:** Shell scripting fundamentals
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Linux](https://img.shields.io/badge/Linux-Operating%20System-black)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+
 ## 🚀 Projects
 
 I am building hands-on projects to apply my learning and gain practical experience.
