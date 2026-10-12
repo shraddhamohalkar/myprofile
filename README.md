@@ -51,8 +51,8 @@ I am building hands-on projects to apply my learning and gain practical experien
 
 I'm always interested in learning, collaborating, and connecting with people in the Cloud and DevOps community.
 
-* **LinkedIn:** Add your LinkedIn profile link here.
-* **Email:** Add a professional email address if you want to share it publicly.
+* **LinkedIn:** www.linkedin.com/in/shraddha-mohalkar-0948b1266
+* **Email:** shraddhamohalkar2003@gmail.com
 
 ---
 
